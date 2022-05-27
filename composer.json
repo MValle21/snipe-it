@@ -17,7 +17,7 @@
     "enshrined/svg-sanitize": "^0.13.3",
     "erusev/parsedown": "^1.7",
     "fideloper/proxy": "^4.1",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": "^7.0",
     "intervention/image": "^2.4",
     "javiereguiluz/easyslugger": "^1.0",
     "laravel/framework": "5.5.*",
